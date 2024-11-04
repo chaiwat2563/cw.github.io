@@ -1,5 +1,5 @@
 let githubUser = 'chaiwat2563'
-let repo = 'cw.github.io'
+let repo = 'chaiwat2563.github.io/cw.github.io'
 let imgFolder = 'images'
 
 async function login() {
